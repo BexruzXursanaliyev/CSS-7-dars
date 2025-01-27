@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+.wrap{
+    width: 1200px;
+    margin: 50px auto;
+}
+h3{
+    text-align: center;
+}
+.a{
+    width: 120px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    font-style: italic;
+    float: left;
+    transform: rotate(-25deg);
+    margin-top: 70px;
+}
+.a2{
+    width: 120px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    font-style: italic;
+    float: left;
+    transform: rotate(-15deg);
+    margin-top: 20px;
+}
+.a3{
+    width: 120px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    font-style: italic;
+    float: left;
+}
+.a4{
+    width: 120px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    font-style: italic;
+    float: left;
+    transform: rotate(15deg);
+    margin-top: 20px;
+}
+.a5{
+    width: 120px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    font-style: italic;
+    float: left;
+    transform: rotate(25deg);
+    margin-top: 70px;
+}

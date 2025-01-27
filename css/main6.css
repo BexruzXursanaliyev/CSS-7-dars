@@ -1,0 +1,158 @@
+body{
+     background-color: lime;
+}
+.wrap{
+    width: 1200px;
+    margin: 150px auto;
+    position: relative;
+}
+.quloq{
+    width: 120px;
+    height: 160px;
+    background-color: black;
+    border-radius: 300px;
+    border-top-left-radius: 700px;
+    float: left;
+}
+.quloq2{
+    width: 120px;
+    height: 160px;
+    background-color: black;
+    border-radius: 300px;
+    border-top-right-radius: 700px;
+    float: left;
+    margin-left: 220px;
+}
+.boshi{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    border-radius: 200px;
+    margin-left: 30px;
+    margin-top: -20px;
+    position: absolute;
+}
+.w{
+    position: relative;
+}
+.kozi{
+    width: 120px;
+    height: 140px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.kozi2{
+    width: 120px;
+    height: 140px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin-top: -140px;
+    margin-left: 230px;
+}
+.w1{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+.burun{
+    width: 90px;
+    height: 70px;
+    background-color: black;
+    margin-top: -80px;
+    margin-left: 155px;
+    border-radius: 40%;
+}
+.lab{
+    width: 300px;
+    height: 350px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: -35px;
+    margin-left: -50px;
+}
+.lab2{
+    width: 300px;
+    height: 350px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: -345px;
+    margin-left: 150px;
+}
+.til{
+    width: 45px;
+    height: 80px;
+    background-color: red;
+    border-radius: 30px;
+    position: absolute;
+    left: 175px;
+    top: 520px;
+    z-index: 1;
+}
+.q{
+    position: relative;
+}
+.qorni{
+    width: 350px;
+    height: 320px;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 15px 60px white;
+    margin-top: -50px;
+    position: absolute;
+    z-index: -2;
+    left: -15px;
+}
+.juni{
+    position: absolute;
+    width: 200px;
+    height: 180px;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 15px 15px 60px gray inset, -15px -15px 60px gray inset;
+    margin-left: 80px;
+    top: 100px;
+}
+.oyoq{
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    background-color: white;
+    border-radius: 45%;
+    top: 300px;
+    transform: rotate(-15deg);
+}
+.oyoq2{
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    background-color: white;
+    border-radius: 45%;
+    margin-left: 220px;
+    margin-top: -50px;
+    top: 350px;
+    transform: rotate(15deg);
+}
+.d{
+    position: absolute;
+    z-index: -1;
+    margin-top: 500px;
+    margin-left: -400px;
+    display: inline-block;
+}
+.dum{
+    position: absolute;
+    width: 170px;
+    height: 20px;
+    background-color: white;
+    border-radius: 25%;
+    margin-left: 280px;
+    margin-top: -100px;
+    top: 350px;
+}

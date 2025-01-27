@@ -1,0 +1,37 @@
+.wrap{
+    width: 1200px;
+    margin: 50px auto;
+}
+.w1{
+    width: 500px;
+    height: 400px;
+    background: linear-gradient(315deg, blue, purple);
+    padding-top: 80px;
+}
+.w2{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 50px;
+    line-height: 110px;
+    margin-left: 100px;
+}
+.a15{
+    color: orange;
+    font-size: 100px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 90px;
+}
+.a4{
+    color: blue;
+    font-size: 100px;
+    float: left;
+    margin-top: 90px;
+}
+.a1{
+    color: darkblue;
+    font-size: 100px;
+    float: left;
+    margin-top: 90px;
+}
